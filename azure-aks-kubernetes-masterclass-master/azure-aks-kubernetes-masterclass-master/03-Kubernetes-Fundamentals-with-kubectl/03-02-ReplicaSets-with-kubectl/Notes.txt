@@ -1,0 +1,1 @@
+replicaset-demo.yml file name changed to rd.yml
